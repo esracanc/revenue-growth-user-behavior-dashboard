@@ -71,7 +71,7 @@ The SQL script calculates:
 
 SQL file:
 
-`sql/project_2_mrr_analysis.sql`
+[Open SQL Script](sql/project_2_mrr_analysis.sql)
 
 ---
 
@@ -166,7 +166,7 @@ SQL sorgusu aşağıdaki metrikleri hesaplamaktadır:
 
 SQL dosyası:
 
-`sql/project_2_mrr_analysis.sql`
+[SQL Dosyasını Aç](sql/project_2_mrr_analysis.sql)
 
 ---
 
